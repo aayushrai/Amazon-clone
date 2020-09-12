@@ -1,9 +1,20 @@
+
+## Amazon clone
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Deployed on Firebase
 
 Here is the line [https://clone-e5042.web.app](https://clone-e5042.web.app/)
 
+## Functionality
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Deployed using firebase
+- Real time database using firebase
+- Sign in Functionality using firebase
+- Payment gateway using stripe
+
+
 
 ## Available Scripts
 
