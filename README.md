@@ -1,3 +1,8 @@
+## Deployed on Firebase
+
+Here is the line [https://clone-e5042.web.app](https://clone-e5042.web.app/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
