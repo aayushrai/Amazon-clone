@@ -14,8 +14,6 @@ Here is the line [https://clone-e5042.web.app](https://clone-e5042.web.app/)
 - Sign in Functionality using firebase
 - Payment gateway using stripe
 
-
-
 ## Available Scripts
 
 In the project directory, you can run:
